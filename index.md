@@ -1,9 +1,6 @@
 ---
 title: Home
 layout: page
-<span style="color:orange">orange</span>  
-<span style="color:lime">lime</span>  
-<font color='red'>rojo</font>
 ---
 
 # Bootstrap Workshop Template! 3wow wow wow!
