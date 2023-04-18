@@ -1,5 +1,6 @@
 /* tweak defaults if variables set */
 body {
+    background-color: #b69b8b
     @if variable-exists(base-font-family) { font-family: $base-font-family; }
     @if variable-exists(base-font-size) { font-size: $base-font-size; }
     @if variable-exists(text-color) { color: $text-color; }
